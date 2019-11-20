@@ -22,7 +22,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * 
- * @author Nikita Koksharov
+ * @author Nikita Koksharov1
  *
  * @param <T> config type
  */
